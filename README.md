@@ -1,4 +1,12 @@
 A Music Player Project (Seazer Music) powered by Seazer Software
+The purpose of this application is to increase your quality of life by gathering all your music needs in a single application.
+**With this app you can:**
+* Search for Songs, Videos, Playlists or Podcasts and add and expand your library
+* Play all music for free and without ads and add it to our library
+* Create an account and listen simultaneously on all your devices and keep track of your lists.
+* Get personalized music recommendations
+* Listen to your music the way you want with a customizable equalizer for each music
+* Popüler müzik uygulamalarındaki tüm özellikler ve daha fazlası
 ![Screenshot_2025-02-02-01-47-42-508_com seazersoftware musicc](https://github.com/user-attachments/assets/d2d6fb88-7131-4100-861e-d0b3d64b8742)
 ![Screenshot_2025-02-02-01-47-44-170_com seazersoftware musicc](https://github.com/user-attachments/assets/32956a2a-0747-4ae3-8659-362eed6636d7)
 ![Screenshot_2025-02-02-01-47-45-758_com seazersoftware musicc](https://github.com/user-attachments/assets/ba9129a7-0576-47a9-a551-453e75b2a706)
