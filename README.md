@@ -1,3 +1,11 @@
+![Screenshot_2025-02-02-01-49-51-370_com seazersoftware musicc](https://github.com/user-attachments/assets/af5c2676-6dfa-4819-a705-f3d50b8970b6)
+![Screenshot_2025-02-02-01-50-02-772_com seazersoftware musicc](https://github.com/user-attachments/assets/1834e586-3be7-4b1b-8e80-5140d348fb78)
+![Screenshot_2025-02-02-01-50-09-059_com seazersoftware musicc](https://github.com/user-attachments/assets/910e13ae-dcb3-4c65-8df2-3d7f6441f05d)
+![Screenshot_2025-02-02-01-50-10-704_com seazersoftware musicc](https://github.com/user-attachments/assets/d44273db-c7e9-4426-8f19-c55f3a571c50)
+![Screenshot_2025-02-02-01-50-14-291_com seazersoftware musicc](https://github.com/user-attachments/assets/c7dedd25-20ac-4661-9f69-6d0d3c548495)
+![Screenshot_2025-02-02-01-50-16-438_com seazersoftware musicc](https://github.com/user-attachments/assets/bac9d249-9c80-4b6c-ae28-261f3f496c31)
+![Screenshot_2025-02-03-14-22-49-925_com seazersoftware musicc](https://github.com/user-attachments/assets/f05c5e07-b9c3-43dd-962d-567933c39c83)
+![Screenshot_2025-02-03-14-23-02-433_com seazersoftware musicc](https://github.com/user-attachments/assets/fd5f5245-f44a-40bb-80a9-b698c59b140a)
 # **Seazer Music** 🎵  
 *Powered by Seazer Software*  
 
@@ -58,6 +66,34 @@
 | ![My Playlists](https://github.com/user-attachments/assets/70c01b21-56b7-4d88-90ca-47345a881711) | ![Favorite Songs](https://github.com/user-attachments/assets/e2f825f1-12c7-449a-856a-8f408fbda0b8) | ![Downloaded Music](https://github.com/user-attachments/assets/5ba55621-4c28-42f4-b08c-b6de22f67951) |  
 
 ---
+
+### **📁 Other-1**  
+
+| **My Playlists** | **Favorite Songs** | **Downloaded Music** |  
+|----------------|----------------|------------------|  
+| ![My Playlists](https://github.com/user-attachments/assets/70c01b21-56b7-4d88-90ca-47345a881711) | ![Favorite Songs](https://github.com/user-attachments/assets/e2f825f1-12c7-449a-856a-8f408fbda0b8) | ![Downloaded Music](https://github.com/user-attachments/assets/5ba55621-4c28-42f4-b08c-b6de22f67951) |  
+
+---
+
+
+### **📁 Other-2**  
+
+| **My Playlists** | **Favorite Songs** | **Downloaded Music** |  
+|----------------|----------------|------------------|  
+| ![My Playlists](https://github.com/user-attachments/assets/70c01b21-56b7-4d88-90ca-47345a881711) | ![Favorite Songs](https://github.com/user-attachments/assets/e2f825f1-12c7-449a-856a-8f408fbda0b8) | ![Downloaded Music](https://github.com/user-attachments/assets/5ba55621-4c28-42f4-b08c-b6de22f67951) |  
+
+---
+
+### **📁 Other-3**  
+
+| **My Playlists** | **Favorite Songs** | **Downloaded Music** |  
+|----------------|----------------|------------------|  
+| ![My Playlists](https://github.com/user-attachments/assets/70c01b21-56b7-4d88-90ca-47345a881711) | ![Favorite Songs](https://github.com/user-attachments/assets/e2f825f1-12c7-449a-856a-8f408fbda0b8) | ![Downloaded Music](https://github.com/user-attachments/assets/5ba55621-4c28-42f4-b08c-b6de22f67951) |  
+
+---
+
+
+![Screenshot_2025-02-02-01-49-30-147_com seazersoftware musicc](https://github.com/user-attachments/assets/023b6a51-cf13-4477-a412-ecabc2c22ab0)
 
 ## **📥 Download & Install**  
 1. **Clone the repository:**  
